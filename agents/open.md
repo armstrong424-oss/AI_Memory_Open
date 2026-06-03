@@ -141,7 +141,7 @@ This protocol should be executed when the user says any of the following:
 
 ### Staging Projects (Last 5)
 *Updated during closure protocol based on last-modified date of folders inside `staging/`.*
-*(none yet — `projects/staging/` is empty as of 2026-06-03)*
+- `FunctionalWellnessHybrid` (staged 2026-06-03) — CBA hybrid cash-based practice transformation; 18 advisors activated; Documents 1–3 drafted
 
 ### Main Folder Structure
 

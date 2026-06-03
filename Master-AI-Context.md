@@ -40,7 +40,7 @@ The system operates at two levels:
 
 | Project | Folder | Type | Status | Description |
 |---------|--------|------|--------|-------------|
-| *(None yet — first project staging pending. See NextSteps.md.)* | | | | |
+| FunctionalWellnessHybrid | `projects/staging/FunctionalWellnessHybrid/` | Business | Staging | CBA hybrid cash-based practice transformation; goal $1M+ gross, payer-dependence reduction |
 
 ---
 

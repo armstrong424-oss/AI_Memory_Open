@@ -10,8 +10,8 @@
 
 ### High Priority
 
-1. **Stage your first project** — Run `staging.md`. The obvious candidate is the CBA clinic transition (insurance-dependent → hybrid cash-based functional wellness). Could also be staged as separate projects (e.g., clinic operations, the non-profit fall-prevention org, a billing/RCM cleanup workstream).
-2. **Push setup to git** — Run `git add . && git commit && git push origin main` to persist initialization (Cowork sandbox cannot push automatically).
+1. **Advance FunctionalWellnessHybrid staging** — Owner-review the three drafts in `projects/staging/FunctionalWellnessHybrid/Master-Context.md`, validate assumptions (RCM baseline, APCM/RPM-eligible count, willingness-to-pay, device terms), then promote via `PROJECT_MEMORY_INIT.md`.
+2. **Push to git** — Run `git add . && git commit && git push origin main` to persist setup + the staged project (Cowork sandbox cannot push automatically).
 
 ### Medium Priority
 
@@ -30,6 +30,7 @@
 | Item | Date | Notes |
 |------|------|-------|
 | Ran `setup-AI-Memory.md` (first-time initialization) | 2026-06-03 | Owner=SammyD, Org=Chandra Britt Armstrong MD LLC, repo=armstrong424-oss/AI_Memory_Open, primary AI=Claude, standards=as-is, enterprise OS=deferred. |
+| Staged FunctionalWellnessHybrid (`staging.md`) | 2026-06-03 | Whole-practice hybrid transformation; $1M anchor; 18 advisors activated (36 files); Documents 1–3 drafted; 9 epics, 6 milestones, risk register. |
 
 ---
 
