@@ -2,7 +2,7 @@
 
 > **SCOPE:** This file indexes sessions that modified the **AI Memory system itself** — its structure, standards, policies, shared resources, and cross-project infrastructure. This is NOT a project-level file. Project-specific sessions live in each project's own `Sessions.md`.
 
-**Last Updated:** —
+**Last Updated:** 2026-06-03
 
 ---
 
@@ -16,7 +16,7 @@ Before performing any root-level action (modifying standards, creating new proje
 
 | Session File | Date | Keywords |
 |-------------|------|----------|
-| *(populated during sessions)* | | |
+| session-summary/AI-Session-Summary-2026-06-03_1047.md | 2026-06-03 | opening protocol, setup-AI-Memory, first-time init, owner, repo, standards |
 
 ---
 

@@ -3,9 +3,10 @@
 **Document Purpose:** This is the primary operational context file for any AI assistant working on the **AI Memory system itself** — its structure, standards, policies, shared resources, cross-project coordination, and infrastructure. This is NOT a project-level context file. Each project has its own `Master-AI-Context.md` inside its `{ProjectName}_AI_Training/` folder.
 
 **Memory Design Version:** 1.1
-**Last Updated:** —
-**System Owner:** [Your Name] ([your@email.com])
-**Repository:** [Your forked repo URL — configured during setup]
+**Last Updated:** 2026-06-03
+**System Owner:** SammyD (armstrong424@gmail.com)
+**Organization:** Chandra Britt Armstrong MD, LLC (CBA) — independent Family Medicine clinic, Decatur, GA
+**Repository:** https://github.com/armstrong424-oss/AI_Memory_Open
 
 ---
 
@@ -39,7 +40,7 @@ The system operates at two levels:
 
 | Project | Folder | Type | Status | Description |
 |---------|--------|------|--------|-------------|
-| *(Your projects will appear here after staging and initialization)* | | | | |
+| *(None yet — first project staging pending. See NextSteps.md.)* | | | | |
 
 ---
 
@@ -154,17 +155,32 @@ CRM integration is configured during setup (`setup-AI-Memory.md`).
 
 ---
 
-## 8. Session History & Handover
+## 8. AI Model Preferences
 
-- **Latest Session:** *(populated after first session)*
-- **Latest Decisions:** *(populated after first session)*
+| Purpose | Model | Notes |
+|---------|-------|-------|
+| Primary | Claude (Anthropic) | Default for most tasks |
+| Code Generation | Claude (Anthropic) | Used for software development sessions |
+| Writing & Communication | Claude (Anthropic) | Used for content, messaging, documentation |
+| Analysis & Research | Claude (Anthropic) | Used for research, data analysis, decision support |
+
+**All Available Models:** Claude (Anthropic)
+
+**API Keys:** Stored in `SammyKeys.txt` (git-ignored). AI assistants requiring API access should reference that file.
+
+---
+
+## 9. Session History & Handover
+
+- **Latest Session:** [AI-Session-Summary-2026-06-03_1047.md](session-summary/AI-Session-Summary-2026-06-03_1047.md) — root init + first-time setup
+- **Latest Decisions:** [Key-Decisions-2026-06-03_1047.md](decisions-learnings/Key-Decisions-2026-06-03_1047.md)
 - **Master Indexes:** [Key-Decisions.md](Key-Decisions.md), [Sessions.md](Sessions.md)
 - **Risk Registry:** [Risk-Registry.md](Risk-Registry.md)
 - **Next Steps:** [NextSteps.md](NextSteps.md)
 
 ---
 
-## 9. Key Operational Rules
+## 10. Key Operational Rules
 
 1. **Root copies of standards are authoritative.** When a standard is updated, the root copy is updated first, then propagated to all project `Standards and Policy/` folders.
 

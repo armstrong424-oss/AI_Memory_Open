@@ -1,6 +1,6 @@
 # AI_Memory_Open — Universal AI Context Memory System
 
-**Repository:** https://github.com/Qosil/AI_Memory_Open
+**Repository:** https://github.com/armstrong424-oss/AI_Memory_Open
 **Memory Design Version:** 1.1
 **License:** GPL v3
 

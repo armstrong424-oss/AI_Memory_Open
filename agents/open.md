@@ -14,9 +14,9 @@
 >    cd <path-to-AI_Memory>
 >    git pull origin main
 >    ```
->    - The canonical repo is **https://github.com/Qosil/AI_Memory_Open**
+>    - The canonical repo is **https://github.com/armstrong424-oss/AI_Memory_Open**
 >    - If you are in Cowork, the folder is already mounted — just confirm files are current.
->    - If the repo has not been cloned yet: `git clone https://github.com/Qosil/AI_Memory_Open.git`
+>    - If the repo has not been cloned yet: `git clone https://github.com/armstrong424-oss/AI_Memory_Open.git`
 >
 > 1. **Read Core Context Files:** Read these files to understand the system:
 >    - `AI_Memory_Open/Master-AI-Context.md` — System overview, project portfolio, folder structure, operational standards, shared resources, and session infrastructure
@@ -137,11 +137,11 @@ This protocol should be executed when the user says any of the following:
 
 ### Recent Projects (Last 5)
 *Updated during closure protocol based on last-modified date.*
-*(none yet — populated after project initialization)*
+*(none yet — first project staging pending as of 2026-06-03)*
 
 ### Staging Projects (Last 5)
 *Updated during closure protocol based on last-modified date of folders inside `staging/`.*
-*(none yet — populated after project staging)*
+*(none yet — `projects/staging/` is empty as of 2026-06-03)*
 
 ### Main Folder Structure
 
@@ -177,6 +177,9 @@ This protocol should be executed when the user says any of the following:
 - `Sessions.md`: System-level session keyword index
 - `Risk-Registry.md`: System-level risk tracking
 - `NextSteps.md`: System-level priority queue
+
+**Credentials (git-ignored):**
+- `SammyKeys.txt`: API key storage for owner SammyD (created during setup 2026-06-03)
 
 **Tools & Templates (3-Step Project Lifecycle):**
 - `setup-AI-Memory.md`: One-time first-run initialization protocol (Step 1)
